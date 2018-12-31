@@ -1,0 +1,37 @@
+html,
+body {
+  
+  background-color:#f7f7f7;
+  font-size: 13px;
+  font-weight: 500;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.whiteColor {
+  color: rgba(255, 255, 255, 255) !important;
+}
+
+.menuTransparent {
+  background-color: transparent !important;
+}
+
+.sidebar {
+  transition: all 1s;
+}
+
+.btnPink,
+.btnPink:disabled {
+  background-color: #FF527B;
+  color: #FFFFFF;
+  letter-spacing: 2px;
+}
+
+.btnPink:hover {
+  background-color: #b7022f;
+  color: #fff;
+}
+
+.paddingMarginZero{
+  padding: 0;
+  margin: 0 ;
+}

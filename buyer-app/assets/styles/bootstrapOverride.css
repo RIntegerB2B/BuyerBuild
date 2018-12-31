@@ -1,0 +1,13 @@
+.navbar-dark .navbar-nav .nav-link{
+    color:rgba(255, 255, 255, 255);
+}
+
+.bg-primary{
+    background-color: #296A9C !important;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.alert{
+    padding: 0.30rem 1.25rem;
+}
